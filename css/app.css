@@ -1,0 +1,42 @@
+
+
+* {
+    font-family:"Courier New", Courier, monospace;
+}
+
+#header {
+    margin:0px 50px;
+}
+
+#console {
+    margin-left:200px; /* after we set a width for control panel we can center (margin: auto ??) */
+}
+
+#floorplan {
+    float:left;
+    width:500px;
+    height:700px;
+}
+
+#floorplan path{
+    fill:white;
+    stroke:#d3d3d3;
+    pointer-events:all;
+    transition: fill .4s ease;
+}
+
+#floorplan p {
+    float:left;
+}
+
+#roomControl {
+    padding-top:100px;
+}
+
+#floorplan path.ceiling_light_on{
+    fill:#ffff99;
+}
+
+#floorplan path:hover{
+    fill:#eeeeee;
+}

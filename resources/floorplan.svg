@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="floorplan.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="334.5939"
+     inkscape:cy="613.14782"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="687"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3336" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+
+
+  <g>
+    <path
+       id="foyer_path"
+       style="fill:none; stroke:#d3d3d3"
+       d="m 234.27416,668.38605 0,109.57634 127.12567,0 0,-109.57634 z" />
+    <text
+       id="foyer_text"
+       x="262.9437"
+       y="734.92761">foyer</text>
+  </g>
+
+  <g>
+    <path
+       id="bathroom_path"
+       style="fill:none; stroke:#d3d3d3"
+       d="m 361.39983,777.96239 63.56283,0 0,156.53763 -270.14204,0 0,-156.53763 z" />
+    <text
+       id="bathroom_text"
+       x="231.56026"
+       y="867.95508">bathroom</text>
+  </g>
+
+  <g>
+    <path
+       id="kitchen_path"
+       style="fill:none; stroke:#d3d3d3"
+       d="m 424.96266,777.96239 0,46.96129 254.25132,0 0,-219.15268 -317.81415,0 0,172.19139 z" />
+    <text
+       id="kitchen_text"
+       x="475.78284"
+       y="727.12177">kitchen</text>
+  </g>
+
+  <g>
+    <path
+       id="closet_path"
+       style="fill:none; stroke:#d3d3d3"
+       d="m 361.39983,605.771 0,-125.23011 317.81415,0 0,125.23011 z" />
+    <text
+       id="closet_path"
+       x="483.74878"
+       y="556.65833">closet</text>
+  </g>
+
+  <g>
+    <path
+       id="living_room_path"
+       style="fill:none; stroke:#d3d3d3"
+       d="m 361.39983,668.38605 -301.923442,0 0,-406.99784 301.923442,0 z" />
+    <text
+       id="living_room_text"
+       x="138.20245"
+       y="471.74692">living room</text>
+  </g>
+
+  <g>
+    <path
+       id="bedroom_path"
+       style="fill:none; stroke:#d3d3d3"
+       d="m 281.94629,261.38821 0,-203.498903 397.26769,0 0,422.651583 -317.81415,0 0,-219.15268 z" />
+    <text
+       id="bedroom_text"
+       x="448.8587"
+       y="263.20703">bedroom</text>
+  </g>
+    
+    
+    
+    
+</svg>
